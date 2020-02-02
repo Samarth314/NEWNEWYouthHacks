@@ -5115,7 +5115,7 @@ h6 {
   position: absolute;
   width: 1px;
   height: 10px;
-  background: #acacac;
+  background: #000000;
   right: -12px;
   top: 7px;
 }
@@ -5150,7 +5150,7 @@ h6 {
 
 /* line 116, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_blog.scss */
 .single-blog .single-blog-content .meta-bottom p {
-  font-size: 13px;
+  font-size: 20px;
   font-weight: 300;
 }
 
@@ -5526,7 +5526,7 @@ h6 {
 /* line 529, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_blog.scss */
 .blog_details {
   padding: 30px 0 20px 10px;
-  box-shadow: 0px 10px 20px 0px rgba(221, 221, 221, 0.3);
+  box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.3);
 }
 
 @media (min-width: 768px) {
@@ -5539,6 +5539,7 @@ h6 {
 /* line 537, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_blog.scss */
 .blog_details p {
   margin-bottom: 30px;
+  color: #000;
 }
 
 /* line 541, C:/Users/SPN Graphics/Desktop/CL September/Edu mark/207 Education/HTML/scss/_blog.scss */
